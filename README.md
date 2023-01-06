@@ -4,8 +4,9 @@
   <img alt="Página Newsletter da Alura" src=".github/newsletter-alura.png" width="100%">
 </p>
 
-<h2 align="center">Aula do curso <b>Tailwind CSS: estilizando a sua página com classes utilitárias</b> da Alura. :ocean:</h2>
- <hr>
+<h2>Aula do curso <b>Tailwind CSS: estilizando a sua página com classes utilitárias</b> da Alura. :ocean:</h2>
+
+ <h2>Alguns temas abordados em aula: </h2>
 <ul>
 <li>Identificar quais as principais diferenças entre o Bootstrap e o Tailwind CSS </li>
 <li>Implementar customizações em seu projeto com o tailwind.config </li>
